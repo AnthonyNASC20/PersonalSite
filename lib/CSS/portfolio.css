@@ -1,0 +1,44 @@
+body{
+    background-color: #A7BBEC;
+    text-align: center;
+}
+
+div{
+    border: solid black;
+}
+
+#logo{
+    height: 50px;
+    width: 50px;
+}
+
+td{
+    border: solid black;
+}
+
+tr{
+    width: 100%;
+}
+#navigationBar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin-left: -9px;
+    background-color: #0D1821;
+    opacity: 0.8;
+}
+
+#githubImg{
+    height: 50px;
+    width: 50px;
+    left: 0 px;
+}
+
+.githubContent{
+    display: inline;
+}
+
+.projectPics{
+    height: 250px;
+    width: 400px;
+}
