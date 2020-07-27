@@ -1,5 +1,6 @@
 body{
-    background-color: #A7BBEC;
+    background: url(../img/skills.jpg) no-repeat center center fixed;
+    background-size: cover;
     text-align: center;
 }
 
@@ -29,10 +30,13 @@ tr{
     width: 100%;
     margin-left: -9px;
     background-color: #0D1821;
-    opacity: 0.8;
 }
 
 img{
     height: 50px;
     width: 50px;
+}
+
+#certificationsTable {
+    width: 100%;
 }

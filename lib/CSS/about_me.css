@@ -36,19 +36,71 @@ tr{
     width: 100%;
     margin-left: -9px;
     background-color: #0D1821;
-    opacity: 0.8;
 }
 
-#education{
-    border: solid black;
+#sports{
+display: flex;
+justify-content: space-around;
+}
+
+#clubs{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
+#volleyball{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+}
+
+#marchingBand{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+}
+
+#coding_club{
+    width:250px;
+    display: flex;
+    flex-direction: column;
+}
+
+#relay{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+}
+
+#FBLA{
+    width:250px;
+    display: flex;
+    flex-direction: column;
+}
 p, h2, h3{
     border: solid black;
 }
 
 #schoolYears{
     margin-left: -30px;
+}
+
+#vBall_img{
+    height: 250px;
+}
+
+#marchingBand_img{
+    height:250px;
+}
+
+#codingClub_img{
+    height: 250px;
+}
+
+#relay_img{
+    height: 250px;
+}
+
+#fbla_img{
+    height: 250px;
 }
