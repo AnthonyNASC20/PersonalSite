@@ -1,29 +1,17 @@
 body{
-    background: url(../img/index_home.jpg) no-repeat center center fixed;
-    background-size: cover;
     text-align: center;
-    color: white;
-}
-
-div{
-    border: solid black;
+    color: black;
 }
 
 #title{
     margin-top: 100px;
     text-align: center;
 }
-img{
-    border: solid black;
-}
+
 
 #logo{
     height: 50px;
     width: 50px;
-}
-
-td{
-    border: solid black;
 }
 
 tr{
@@ -38,14 +26,33 @@ tr{
     background-color: #0D1821;
 }
 
+#aitLogo{
+    height: 100px;
+    width: 200px;
+}
+
+#sportsTitle{
+    background-color: #1a1919;
+    color: white;
+}
+
 #sports{
-display: flex;
-justify-content: space-around;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+#sportsContainer{
+    background-color: #1a1919;
 }
 
 #clubs{
     display: flex;
     justify-content: space-around;
+}
+
+#interests{
+    background-color: #1a1919;
+    color: white;
 }
 
 #volleyball{
@@ -77,30 +84,13 @@ justify-content: space-around;
     display: flex;
     flex-direction: column;
 }
-p, h2, h3{
-    border: solid black;
-}
 
 #schoolYears{
     margin-left: -30px;
 }
 
-#vBall_img{
-    height: 250px;
-}
-
-#marchingBand_img{
-    height:250px;
-}
-
-#codingClub_img{
-    height: 250px;
-}
-
-#relay_img{
-    height: 250px;
-}
-
-#fbla_img{
-    height: 250px;
+img{
+    width: 250px;
+    height: 200px;
+    border-radius:20px;
 }

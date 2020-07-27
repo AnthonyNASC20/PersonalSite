@@ -27,6 +27,11 @@ tr{
     background-color: #0D1821;
 }
 
+#title{
+    margin-top: 60px;
+
+}
+
 #githubImg{
     height: 50px;
     width: 50px;
@@ -38,6 +43,6 @@ tr{
 }
 
 .projectPics{
-    height: 250px;
-    width: 400px;
+    height: 150px;
+    width: 250px;
 }

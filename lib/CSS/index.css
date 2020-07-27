@@ -23,13 +23,10 @@ body{
     width: 50px;
 }
 
-td{
-    border: solid black;
-}
-
 tr{
     width: 100%;
 }
+
 #navigationBar{
     position: fixed;
     top: 0;
