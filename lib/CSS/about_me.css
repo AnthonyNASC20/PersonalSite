@@ -41,6 +41,11 @@ tr{
     display: flex;
     justify-content: space-around;
 }
+#interests{
+    display: flex;
+    justify-content: space-around;
+}
+
 #sportsContainer{
     background-color: #1a1919;
 }
@@ -50,7 +55,7 @@ tr{
     justify-content: space-around;
 }
 
-#interests{
+#interestsContainer{
     background-color: #1a1919;
     color: white;
 }
