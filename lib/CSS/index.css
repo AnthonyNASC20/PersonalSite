@@ -17,6 +17,14 @@ body{
     border-radius: 15px;
 }
 
+#famSiblings{
+    margin-left:-150px;
+}
+
+#famNigeria{
+    margin-left:150px;
+    margin-right:-150px ;
+}
 
 #logo{
     height: 50px;
@@ -43,12 +51,12 @@ tr{
     color: white;
 }
 
-a{
+#navigationBar a{
     text-decoration: none;
     color: #404040;
 }
 
-a:hover{
+#navigationBar a:hover{
     color: #bab6b6;
 }
 @media(max-width:1000px){

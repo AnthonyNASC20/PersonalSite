@@ -4,9 +4,6 @@ body{
     text-align: center;
 }
 
-div{
-    border: solid black;
-}
 
 #logo{
     height: 50px;
@@ -14,13 +11,11 @@ div{
 }
 
 #title{
-    margin-top: 50px;
-}
-td{
-    border: solid black;
+    margin-top: 100px;
 }
 
 tr{
+    margin-left: -50px;
     width: 100%;
 }
 
@@ -32,11 +27,41 @@ tr{
     background-color: #0D1821;
 }
 
+#navigationBar a{
+    text-decoration: none;
+    color: #404040;
+}
+
+#navigationBar a:hover{
+    color: #bab6b6;
+}
+
 img{
-    height: 50px;
-    width: 50px;
+    height: 80px;
+    width: 80px;
 }
 
 #certificationsTable {
     width: 100%;
+    border: solid black;
+}
+
+#certificationsTable tr{
+    border: solid black;
+}
+
+#certificationsTable td{
+    border: solid black;
+    width: 50%
+}
+
+
+iframe{
+    height: 250px;
+    width: 250px;
+}
+
+#compTIA{
+    height:300px;
+    width:450px;
 }

@@ -26,6 +26,15 @@ tr{
     background-color: #0D1821;
 }
 
+#navigationBar a{
+    text-decoration: none;
+    color: #404040;
+}
+
+#navigationBar a:hover{
+    color: #bab6b6;
+}
+
 #aitLogo{
     height: 100px;
     width: 200px;
