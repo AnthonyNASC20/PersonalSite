@@ -57,6 +57,10 @@ tr{
     background-color: #1a1919;;
 }
 
+#schoolAchievements{
+    color: white;
+    background-color: #1a1919;
+}
 .projectLinks{
     display: flex;
     justify-content: space-around;
@@ -65,4 +69,27 @@ tr{
 a{
     color: white;
     text-decoration: none;
+}
+
+#Github_Links{
+    color: black;
+}
+
+#Github_Links a{
+    display: block;
+    color: black;
+    size: 10pt;
+    text-decoration: none;
+}
+
+#angumah{
+    margin-bottom: 20px;
+}
+
+.portfolio_title{
+    display: inline;
+}
+
+#portfolioLink{
+    margin-left: 20px;
 }
